@@ -2,11 +2,11 @@
 
 ## Discentes
 
-João Pedro Alves Carneiro Valadão
-Vítor Pereira Resende
-Jean Santos Diniz
-Augusto Inácio Silva Mariano
-Paulo Henrique Teixeira Pompeu
+- João Pedro Alves Carneiro Valadão
+- Vítor Pereira Resende
+- Jean Santos Diniz
+- Augusto Inácio Silva Mariano
+- Paulo Henrique Teixeira Pompeu
 
 ## Introdução
 
