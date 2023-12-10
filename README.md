@@ -1,4 +1,4 @@
-# Banco de Dados Relacional
+# GCC263 - Introdução a Sistema de Banco de Dados - Trabalho Prático
 
 ## Discentes
 
