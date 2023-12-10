@@ -1,5 +1,13 @@
 # Banco de Dados Relacional
 
+## Discentes
+
+João Pedro Alves Carneiro Valadão
+Vítor Pereira Resende
+Jean Santos Diniz
+Augusto Inácio Silva Mariano
+Paulo Henrique Teixeira Pompeu
+
 ## Introdução
 
 O presente trabalho aborda os fundamentos e características de um banco de dados relacional. Um banco de dados relacional é uma ferramenta crucial no armazenamento e gerenciamento eficiente de dados em sistemas de informação. Este documento explora **conceitos-chave**, **modelagem de dados**, **normalização** e **consultas SQL**.
